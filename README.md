@@ -1,4 +1,4 @@
-<p align='center'>
+<p>
 <a href='https://linkedin.com/in/diegoraian'>
 <img height='20' src='https://user-images.githubusercontent.com/56923620/191869714-afa7a1f2-1f54-4b1c-a1ed-7dc96c7dd4dc.png' />
 </a>
@@ -8,7 +8,7 @@
 </a>
 </p>
 
-<p align='center'>
+<p>
 <a href='https://diegofrr.github.io/portfolio'>
 Portfólio
 </a>
