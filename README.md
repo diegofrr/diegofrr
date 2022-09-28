@@ -1,15 +1,16 @@
+## Olá! :wave:
+
+##### :link: Links
 <p>
-<a href='https://linkedin.com/in/diegoraian'>
-<img height='20' src='https://user-images.githubusercontent.com/56923620/191869714-afa7a1f2-1f54-4b1c-a1ed-7dc96c7dd4dc.png' />
+<a href='https://linkedin.com/in/diegoraian' target='_blank'>
+<img height='22' src='https://user-images.githubusercontent.com/56923620/192839693-2ae81578-174d-42c3-b006-9a0f501f5f07.png' />
 </a>
 
-<a href='https://www.instagram.com/diegofrr_'>
-<img height='20' src='https://user-images.githubusercontent.com/56923620/191870120-0f5c8131-8495-456e-821d-470bc93c4c62.png' />
+<a href='https://www.instagram.com/diegofrr_' target='_blank'>
+<img height='22' src='https://user-images.githubusercontent.com/56923620/192834358-91595598-cbcc-4afe-8cce-bee764c54535.png' />
 </a>
 </p>
 
-<p>
-<a href='https://diegofrr.github.io/portfolio'>
-Portfólio
+<a target='_blank' href='https://diegofrr.github.io/portfolio' target='_blank'>
+<img height='22' src='https://user-images.githubusercontent.com/56923620/192843459-bed60b2b-bc2d-4de9-bd0b-16c5f2d98fd4.png' />
 </a>
-</p>
