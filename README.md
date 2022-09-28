@@ -12,5 +12,5 @@
 </p>
 
 <a target='_blank' href='https://diegofrr.github.io/portfolio' target='_blank'>
-<img height='22' src='https://user-images.githubusercontent.com/56923620/192843459-bed60b2b-bc2d-4de9-bd0b-16c5f2d98fd4.png' />
+<img height='22' src='https://user-images.githubusercontent.com/56923620/192844976-1ceb7705-a941-4a23-974b-1356fe8ffde8.png' />
 </a>
