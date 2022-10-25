@@ -15,7 +15,7 @@
 </a>
 </p>
 
-#### 👨‍💻 Technologies
+#### 👨‍💻 Tecnologias
 
 <p>
 <img alt='react' height='22' src='https://user-images.githubusercontent.com/56923620/197418580-b461aa51-9868-457d-b7b6-0e8e8906d973.png' />
